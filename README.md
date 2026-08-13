@@ -1,13 +1,12 @@
 # SEO ContentPilot AI
 
-SEO ContentPilot AI is a professional SEO strategy and content
-optimization agent developed by Sajjad Haider.
+SEO ContentPilot AI is a professional SEO strategy and content optimization agent developed by Sajjad Haider.
 
 ## Purpose
 
-The agent analyzes a user's SEO task, keyword, topic, webpage
-content, business information, or content brief and produces
-practical SEO recommendations.
+The agent analyzes a user's SEO task, keyword, topic, webpage content, business information, or content brief and produces practical, specific SEO recommendations.
+
+It focuses on actionable guidance rather than claiming access to live search rankings, private analytics, search volume data, competitor databases, or other information that was not supplied by the user.
 
 ## Capabilities
 
@@ -27,7 +26,7 @@ practical SEO recommendations.
 
 ## Input
 
-The agent accepts JSON through standard input.
+The agent accepts a JSON object through standard input.
 
 Example:
 

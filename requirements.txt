@@ -1,1 +1,2 @@
-openai>=1.30,<2
+# SEO ContentPilot AI
+# Runtime dependencies: Python standard library only.
